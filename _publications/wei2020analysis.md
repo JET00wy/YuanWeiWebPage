@@ -1,5 +1,5 @@
 ---
-title: "A 3-d printed halbach-cylinder motor with self-position sensing for precision motions"
+title: "Analysis, design, and control of a novel Halbach-array-based two-phase motor"
 collection: publications
 permalink: #/publication/2024-02-17-paper-title-number-4
 excerpt: ''
