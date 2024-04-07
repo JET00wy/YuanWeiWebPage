@@ -1,7 +1,7 @@
 ---
 title: "Analysis, design, and control of a novel Halbach-array-based two-phase motor"
 collection: publications
-permalink: #/publication/2015-10-01-paper-title-number-3
+permalink: #/publication/2024-02-17-paper-title-number-4
 excerpt: ''
 date: 2020-10-20
 venue: 'Texas A&M University Master's thesis'
