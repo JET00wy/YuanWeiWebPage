@@ -10,3 +10,9 @@ redirect_from:
 Yuan Wei received his B.Eng. degree in mechanical engineering from Shanghai Jiao Tong University, Shanghai, China, in 2018, and his M.S. degree in mechanical engineering from Texas A&M University, College Station, TX, USA, in 2020. He is currently a doctoral candidate in the Department of Mechanical Engineering, Texas A&M University, College Station, TX, USA. His research interests include novel robotic mechanism design, mechatronic
 systems control, and multi-robot systems.
 
+Education
+======
+* Ph.D. in mechanical engineering from Texas A&M University, College Station, TX, USA, 2025 (expected)
+* M.S. in mechanical engineering from Texas A&M University, College Station, TX, USA, 2020
+* B.Eng. in mechanical engineering from Shanghai Jiao Tong University, Shanghai, China, 2018
+
