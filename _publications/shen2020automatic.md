@@ -2,7 +2,7 @@
 title: "Automatic system design for flange surface quality inspection with a bionic motion-vision paradigm"
 collection: publications
 permalink: # https://www.tandfonline.com/doi/full/10.1080/02533839.2020.1819430
-excerpt: # 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-09-21
 venue: 'Journal of the Chinese Institute of Engineers'
 paperurl: 'https://www.tandfonline.com/doi/full/10.1080/02533839.2020.1819430'
