@@ -5,7 +5,7 @@ permalink: # https://www.tandfonline.com/doi/full/10.1080/02533839.2020.1819430
 excerpt: # 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-09-21
 venue: 'Journal of the Chinese Institute of Engineers'
-paperurl: # 'https://www.tandfonline.com/doi/full/10.1080/02533839.2020.1819430'
+paperurl: 'https://www.tandfonline.com/doi/full/10.1080/02533839.2020.1819430'
 citation: 'X. Shen, L. Gong, X. Li, Z. Qin, Y. Wei, C. Liu, and J. Zhang, "Automatic system design for flange surface quality inspection with a bionic motion-vision paradigm," Journal of the Chinese Institute of Engineers, vol. 43, no. 8, pp. 819--830, Sep. 2020.'
 ---
 
