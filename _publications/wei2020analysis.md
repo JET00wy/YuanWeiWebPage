@@ -4,7 +4,7 @@ collection: publications
 permalink: #/publication/2024-02-17-paper-title-number-4
 excerpt: ''
 date: 2020-10-20
-venue: 'IEEE/ASME Transactions on Mechatronics'
+venue: 'Texas A&M University Master's thesis'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9448481'
 citation: 'Y. Wei, V. H. Nguyen, and W.-J. Kim, "A 3-d printed halbach-cylinder motor with self-position sensing for precision motions," IEEE/ASME Transactions on Mechatronics, vol. 27, no. 3, pp. 1489--1497, Jun. 2021.'
 ---
