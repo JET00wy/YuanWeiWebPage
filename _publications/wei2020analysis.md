@@ -4,7 +4,7 @@ collection: publications
 permalink: #/publication/2024-02-17-paper-title-number-4
 excerpt: ''
 date: 2020-10-20
-venue: ''
+venue: '1'
 paperurl: 'https://hdl.handle.net/1969.1/192919'
 citation: 'Yuan Wei, "Analysis, design, and control of a novel Halbach-array-based two-phase motor," Texas A&M University Master's thesis, Oct. 2020.'
 ---
