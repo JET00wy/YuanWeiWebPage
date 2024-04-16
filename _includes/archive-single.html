@@ -60,5 +60,9 @@
       <p class="wordwrap">Download <a href=" {{ post.paperurl }} ">here</a></p>
     {% endif %}
 
+    {% if post.pdflink %}
+    <p class="wordwrap">Download PDF: <b><a href=" {{ post.pdflink }} ">here</a></b></p>
+    {% endif %}
+
   </article>
 </div>
